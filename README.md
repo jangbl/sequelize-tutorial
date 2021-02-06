@@ -1,4 +1,4 @@
-# Sequelize Tutorial with Postgres and Express
+# Sequelize Tutorial with Sequelize migrations, seed data and Postgres
 
 This tutorial demonstrates how to connect to a [Postgres](https://www.postgresql.org) database with [Sequelize](https://sequelize.org/master/).
 
