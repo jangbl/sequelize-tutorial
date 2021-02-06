@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jgoebel",
+    "password": null,
+    "database": "sequelize_tutorial",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jgoebel",
+    "password": null,
+    "database": "sequelize_tutorial",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "jgoebel",
+    "password": null,
+    "database": "sequelize_tutorial",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
