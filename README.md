@@ -6,9 +6,9 @@ It also demonstrates how to use the [Sequelize CLI](https://sequelize.org/master
 
 <h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
 
-This repository is contains the code for the [Node Sequelize tutorial](https://www.youtube.com/watch?v=wfrn21E2NaU)
+This repository is contains the code for the [Node Sequelize tutorial](http://youtube.com/watch?v=Eu-h3iUk45o)
 
-[![Node Sequelize tutorial tutorial](images/sequelize-node-postgres-tutorial.png)](https://www.youtube.com/watch?v=wfrn21E2NaU)
+[![Node Sequelize tutorial tutorial](images/sequelize-node-postgres-tutorial.png)](http://youtube.com/watch?v=Eu-h3iUk45o)
 
 Please also check out my website at [jangoebel.com](https://jangoebel.com)
 
